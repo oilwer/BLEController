@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Charles/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Charles/AndroidStudioProjects/BLEController/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-9675ae4dda015990ea816e31cf0f280f42fc21b2.jar" />
+    </item>
+    <item
+        jar="/Users/Charles/AndroidStudioProjects/BLEController/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/Charles/AndroidStudioProjects/BLEController/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-74e99543630f471d72e556709f541f1b44d545ba.jar" />
+    </item>
+
+</items>
